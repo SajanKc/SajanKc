@@ -10,6 +10,9 @@
 - 🥅 2020 Goals: Become a FrontEnd / React Developer.
 - ⚡ Fun fact: I love travelling and learning new technology.
 
+<br />
+  Till now I've a basic knowlege on Java, Spring Boot, REST API, Database(SQL/NoSql)...
+
 ###  📫 Connect with me: 
 [<img align="left" alt="facebook.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="instagram.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
