@@ -36,7 +36,7 @@
 <br />
 <br />
 
-[website]: https://kscajan.com.np
+[website]: https://kcsajan.com.np
 [Facebook]: https://www.facebook.com/sajan96kc
 [Instagram]: https://www.instagram.com/sajan96kc/
 [LinkedIn]: https://www.linkedin.com/in/sajan-kc-17a76911b/
