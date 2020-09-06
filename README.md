@@ -6,8 +6,8 @@
 - 😄 Pronouns: ...-->
 
 - 🌱 I’m currently learning Modern Javascript and React.
-- 👯 I’m looking to collaborate with other React Learner or Developer.
-- 🥅 2020 Goals: Become a FrontEnd / React Developer.
+- 👯 I’m looking to collaborate with other JavaScript Learner or Developer.
+- 🥅 2020 Goals: Become a JavaScript Developer.
 - ⚡ Fun fact: I love travelling and learning new technology.
 
 <br />
