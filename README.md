@@ -5,13 +5,13 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...-->
 
-- 🌱 I’m currently learning Modern Javascript and React.
-- 👯 I’m looking to collaborate with other JavaScript Learner or Developer.
-- 🥅 2020 Goals: Become a JavaScript Developer.
+- 🌱 I’m currently learning Modern Javascript (React) for Frontend and Spring Boot for Backend.
+- 👯 I’m looking to collaborate with other Learner or Developer.
+- 🥅 2020 Goals: Become a Fullstack Developer.
 - ⚡ Fun fact: I love travelling and learning new technology.
 
 <br />
-  Till now I've a basic knowlege on Java, Spring Boot, REST API, Database(SQL/NoSql)...
+  Till now I've a basic knowlege on Javascript, Java, Spring Boot, REST API, MYSQL, MongoDB... and enterprise application work flow.
 
 ###  📫 Connect with me: 
 [<img align="left" alt="facebook.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
