@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Modern Javascript (React) for Frontend and Spring Boot for Backend.
 - 👯 I’m looking to collaborate with other Learner or Developer.
-- 🥅 2020 Goals: Become a Fullstack Developer.
+- 🥅 2021 Goals: Become a Fullstack Developer.
 - ⚡ Fun fact: I love travelling and learning new technology.
 
 <br />
