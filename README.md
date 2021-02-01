@@ -14,10 +14,10 @@
   Till now I've a basic knowlege on Javascript, Java, Spring Boot, REST API, MYSQL, MongoDB... and enterprise application work flow.
 
 ###  📫 Connect with me: 
-[<img align="left" alt="facebook.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
-[<img align="left" alt="instagram.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align="left" alt="linkedin.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="linkedin.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" style="color:#00FFFF;" alt="facebook.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
+[<img align="left" style="color:#00FFFF;" alt="instagram.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" style="color:#00FFFF;" alt="linkedin.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" style="color:#00FFFF;" alt="linkedin.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 
 <br />
 
