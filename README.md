@@ -14,10 +14,10 @@
   Till now I've a basic knowlege on Javascript, Java, Spring Boot, REST API, MYSQL, MongoDB... and enterprise application work flow.
 
 ###  📫 Connect with me: 
-[<img align="left" style="color:#FFFFFF;" alt="facebook.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
-[<img align="left" style="color:#00FFFF;" alt="instagram.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align="left" style="color:#00FFFF;" alt="linkedin.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" style="color:#00FFFF;" alt="linkedin.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="facebook.com" width="22px" src="https://cdn.cdnlogo.com/logos/f/91/facebook-icon.svg" />][Facebook]
+[<img align="left" alt="instagram.com" width="22px" src="https://cdn.cdnlogo.com/logos/i/12/instagram-2016.svg" />][Instagram]
+[<img align="left" alt="linkedin.com" width="22px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />][Twitter]
+[<img align="left" alt="linkedin.com" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][LinkedIn]
 
 <br />
 
@@ -39,5 +39,5 @@
 [website]: https://kcsajan.com.np
 [Facebook]: https://www.facebook.com/sajan96kc
 [Instagram]: https://www.instagram.com/sajan96kc/
-[LinkedIn]: https://www.linkedin.com/in/sajan-kc-17a76911b/
+[LinkedIn]: https://www.linkedin.com/in/sajankc/
 [Twitter]: https://twitter.com/sajan96kc
