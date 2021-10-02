@@ -1,10 +1,9 @@
 ### Namaste 🙏🙏🙏 I'm Sajan - aka [###][website] 👋
 
 ## I'm a Student, Learner and Programmer !
-<!-- - 🔭 I’m currently working on ...
-- 💬 Ask me about ...
+<!-- - 💬 Ask me about ...
 - 😄 Pronouns: ...-->
-
+- 🔭 I’m currently working on my tools and blog site https://iamsajan.com.
 - 🌱 I’m currently learning Modern Javascript (React) for Frontend and Spring Boot for Backend.
 - 👯 I’m looking to collaborate with other Learner or Developer.
 - 🥅 2021 Goals: Become a Fullstack Developer.
