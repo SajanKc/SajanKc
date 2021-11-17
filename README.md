@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love travelling and learning new technology.
 
 <br />
-  Till now I've a basic knowlege on Javascript, Java, Spring Boot, REST API, MYSQL, MongoDB... and enterprise application work flow.
+  Till now I've got a basic knowledge of Javascript, Java, Spring Boot, REST API, MYSQL, MongoDB... and enterprise application work flow.
 
 ###  📫 Connect with me: 
 [<img align="left" alt="facebook.com" width="22px" src="https://cdn.cdnlogo.com/logos/f/91/facebook-icon.svg" />][Facebook]
