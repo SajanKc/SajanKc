@@ -4,13 +4,13 @@
 <!-- - 💬 Ask me about ...
 - 😄 Pronouns: ...-->
 - 🔭 I’m currently working on my tools and blog site https://iamsajan.com.
-- 🌱 I’m currently learning Modern Javascript (React) for Frontend and Spring Boot for Backend.
+- 🌱 I’m currently learning Modern Javascript (Angular / React) for Frontend and Spring Boot for Backend.
 - 👯 I’m looking to collaborate with other Learner or Developer.
-- 🥅 2021 Goals: Become a Fullstack Developer.
+- 🥅 2022 Goals: Become a Fullstack Developer.
 - ⚡ Fun fact: I love travelling and learning new technology.
 
 <br />
-  Till now I've got a basic knowledge of Javascript, Java, Spring Boot, REST API, MYSQL, MongoDB... and enterprise application work flow.
+  Till now I've got a basic knowledge of Javascript, Java, Spring Boot, REST API, MYSQL... and enterprise application work flow.
 
 ###  📫 Connect with me: 
 [<img align="left" alt="facebook.com" width="22px" src="https://cdn.cdnlogo.com/logos/f/91/facebook-icon.svg" />][Facebook]
@@ -24,9 +24,10 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="css3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
