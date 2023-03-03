@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on my tools and blog site https://iamsajan.com.
 - 🌱 I’m currently learning Modern Javascript (Angular / React) for Frontend and Spring Boot for Backend.
 - 👯 I’m looking to collaborate with other Learner or Developer.
-- 🥅 2022 Goals: Become a Fullstack Developer.
+- 🥅 2023 Goals: Become a Fullstack Developer.
 - ⚡ Fun fact: I love travelling and learning new technology.
 
 <br />
