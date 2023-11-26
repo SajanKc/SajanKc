@@ -1,16 +1,15 @@
 ### Namaste 🙏🙏🙏 I'm Sajan - aka [###][website] 👋
 
-## I'm a Student, Learner and Programmer !
+## I'm a Student, Learner, and Programmer!
 <!-- - 💬 Ask me about ...
 - 😄 Pronouns: ...-->
 - 🔭 I’m currently working on my tools and blog site https://iamsajan.com.
 - 🌱 I’m currently learning Modern Javascript (Angular / React) for Frontend and Spring Boot for Backend.
-- 👯 I’m looking to collaborate with other Learner or Developer.
-- 🥅 2023 Goals: Become a Fullstack Developer.
-- ⚡ Fun fact: I love travelling and learning new technology.
+- 👯 I’m looking to collaborate with other learners or developers.
+- ⚡ Fun fact: I love traveling and learning new technology.
 
 <br />
-  Till now I've got a basic knowledge of Javascript, Java, Spring Boot, REST API, MYSQL... and enterprise application work flow.
+  So far, I've acquired expertise in JavaScript, TypeScript(Angular), Java(Spring Boot), REST API development, SQL, NoSql, and the workflow of enterprise applications.
 
 ###  📫 Connect with me: 
 [<img align="left" alt="facebook.com" width="22px" src="https://cdn.cdnlogo.com/logos/f/91/facebook-icon.svg" />][Facebook]
