@@ -1,6 +1,6 @@
 ### Namaste 🙏🙏🙏 I'm Sajan - aka [###][website] 👋
 
-## I'm a Student, Learner, and Programmer!
+## I'm a Fullstack developer, Learner, and Traveler!
 <!-- - 💬 Ask me about ...
 - 😄 Pronouns: ...-->
 - 🔭 I’m currently working on my tools and blog site https://iamsajan.com.
